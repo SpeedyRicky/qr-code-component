@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/rick-facebook"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rick-facebook"
+	}
+}
